@@ -1,0 +1,10 @@
+
+
+2024-5-10	17:24:2
+端口:10
+Client say:1
+Server say: 2
+Client say:3
+Server say: 4
+Client say:5
+会话已结束
