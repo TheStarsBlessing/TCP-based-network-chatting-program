@@ -5,3 +5,4 @@ A-simple-Chinese-TCP-based-network-chatting-program
 3.程序会自动建立TXT文件记录聊天信息，如果希望清空信息请手动删除。
 4.在运行程序前需要添加相应库文件ws2_32.lib，在链接器-输入-附加依赖项中添加。
 5.直接下载的exe文件可能无法运行。
+6.IP地址是服务器所在计算机IPv4地址。
